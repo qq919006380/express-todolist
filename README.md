@@ -17,3 +17,8 @@ npm start   //下载文件夹
 app.set('view engine', 'ejs'); //在app.js更改如下设置
 
 
+### 启动
+```
+node app
+http://127.0.0.1:3000/todo
+```
