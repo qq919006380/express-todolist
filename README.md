@@ -20,5 +20,7 @@ app.set('view engine', 'ejs'); //在app.js更改如下设置
 ### 启动
 ```
 node app
-http://127.0.0.1:3000/todo
+网址打开 http://127.0.0.1:3000/todo
 ```
+
+> 本项目主要练习express一些基本功能思路与实现，便于加深理解。
